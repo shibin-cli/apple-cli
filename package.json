@@ -1,0 +1,27 @@
+{
+  "name": "apple-cli",
+  "version": "1.0.0",
+  "description": "apple-cli",
+  "main": "index.js",
+  "bin": {
+    "ap-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibin-cli/apple-cli.git"
+  },
+  "keywords": [],
+  "author": "Shibin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shibin-cli/apple-cli/issues"
+  },
+  "homepage": "https://github.com/shibin-cli/apple-cli#readme",
+  "devDependencies": {
+    "git-cz": "^4.7.6",
+    "lerna": "^3.22.1"
+  }
+}
