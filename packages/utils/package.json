@@ -1,6 +1,6 @@
 {
   "name": "@apple-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "shibin <shibin.you@qq.com>",
   "homepage": "https://github.com/shibin-cli/apple-cli/tree/master/packages/utils#readme",
@@ -13,7 +13,6 @@
   "files": [
     "lib"
   ],
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shibin-cli/apple-cli.git"
