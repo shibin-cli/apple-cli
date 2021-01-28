@@ -20,6 +20,9 @@
     "url": "https://github.com/shibin-cli/apple-cli/issues"
   },
   "homepage": "https://github.com/shibin-cli/apple-cli#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "git-cz": "^4.7.6",
     "lerna": "^3.22.1"

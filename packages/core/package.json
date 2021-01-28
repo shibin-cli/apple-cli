@@ -23,7 +23,11 @@
   "bugs": {
     "url": "https://github.com/shibin-cli/apple-cli/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "vue": "^2.6.12"
-  }
+  },
+  "gitHead": "aaca4551db9be9b5cff658e136c76f41857b725d"
 }
