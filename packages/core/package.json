@@ -26,8 +26,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-    "vue": "^2.6.12"
-  },
   "gitHead": "aaca4551db9be9b5cff658e136c76f41857b725d"
 }
