@@ -1,5 +1,5 @@
 {
-  "name": "lib",
+  "name": "@apple-cli/lib",
   "version": "1.0.9",
   "description": "> TODO: description",
   "author": "shibin <shibin.you@qq.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/shibin-cli/apple-cli/issues"
   },
-  "gitHead": "61932d9f0ad5ed4e5a28aa9c47dd8e485046a398"
+  "gitHead": "1f17a8a465e2081ee8b81b55d26d71b73a5ce37c"
 }
