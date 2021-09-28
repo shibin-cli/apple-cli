@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/shibin-cli/apple-cli/issues"
   },
-  "gitHead": "333f4be98d1ad628cbad771d630125909c4a0fcb"
+  "publishConfig": {
+    "access": "public"
+},
+  "gitHead": "9f9a89648722bb743a284f5165b26621893ba9a6"
 }
