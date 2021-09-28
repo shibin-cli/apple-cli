@@ -1,6 +1,6 @@
 {
   "name": "@apple-cli/lib",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "> TODO: description",
   "author": "shibin <shibin.you@qq.com>",
   "homepage": "https://github.com/shibin-cli/apple-cli/tree/main/packages/lib#readme",
@@ -25,6 +25,6 @@
   },
   "publishConfig": {
     "access": "public"
-},
+  },
   "gitHead": "9f9a89648722bb743a284f5165b26621893ba9a6"
 }
